@@ -1,54 +1,82 @@
 # Mentorship tree
 
-## Pralhad
-- Akhil
-- Yogendra
-- Satyam
-
-## Akhil
-- Pavan
-- Jagan
-- Naresh
-
-## Pavan 
-- Prince
-- Prakash
-- Sandeep
-
-## Jagan
-- Aijaj
-- Anand
-- Sanjay
-
 ## Anand
-- Aadil
-- Yogendra Meena
+- Shabid
+- Tarique
 
-## Satyam 
-- Tarun
-- Sanjeev
-- Yogesh
-- Rahul
+## Bhavnesh
+- Vishal Barnwal
 
-## Vishal
-- Abhijeet
+## Prince
+- Kirthiv
 
-## Yogendra
-- Rohit
-- Aman jha
-- Pratik 
-
-## Yogesh
-- hemant
-- Kapil
-- vishal modi
-
-## Pratik 
-- Tapas
-- Pavan kumar
+## Prakash
 - Prabhakar
 
-## Sanjeev
-- Dhananjay
-- Praveen
+## Rohit
+- Paramthaman
+
+## Sanjay
+- Biju
+
+## Shabid
+- Ankur
+- Rahit
+- Rakesh
+- Tapas
+
+## Kirithiv
+- Bhaskar
+- Aman
 - Akhilesh
+- Kumar Nayak
+
+## Prabhakar
+- sunkara vivek
+- Chandan Saaho
+- Amar Paul
+
+## Tarique
+- Shubam
+- Riyaz
+
+## Paramthaman
+- Rohit
+- Atul
+- yousuf
+
+## Biju
+- Deepak
+- Himanshu
+- Aakash
+- Ramesh
+
+## Vishal
+- Mohit jha
+- Abhisekh
+- Kartik
+
+## Bhaskar
+- Sonu
+- Somesh
+
+------ Foundation Bootcamp ------
+
+## Aman
+- Sushant
+
+## Tapas
+- Bilal
+- Vishal Pandey
+- Kaushal
+
+## Sushant
+- Raju
+- Umesh
+- Peter
+
+## Ankur Pandey
+- Viresh
+- Deepak Patel
+- Teja
+- Naved Mansuri
