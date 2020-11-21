@@ -1,57 +1,54 @@
 # Mentorship tree
 
+------For Node.js students------
+
 ## Prabhakar
-- Chandan
-- Tarique
+- Deepak Sharma
+- Aijaj
 - Akhilesh
 
-## Chandan
-- Akash
-- Yousuf
-
-## Tarique
-- Deepak Patel
-- Vishal Pandey
+## Aijaj
+-Chandan Shah
+- Tarique
 
 ## Akhilesh
-- Deepak Sharma
-- Subham
-
-## Subham
-- Khalil
 - Navid
+- Aakash
+
+------For Recat.js students-----
 
 ## Ramesh
 - Bhaskar
+- Ajith
 - Umesh
 
 ## Vivek Sankara
-- Ajith
+- Bijender
+- Peter
+- Shubham
 
-## Ajith
-- Bijendra
+------For Python students------
 
 ## Bhaskar
 - Riyaz
 - Santosh
+- Rohit
 
 ## Deepak Sharma
-- Rohit Sharma
-- Roshan
+- Shubhadip
+- Ranjan
 
------- Foundation Bootcamp ------
-
-## Shabid
-- Rajeshwar
-- Vishal M.
+## Aakash
 - Siddik
 
 ## Karthik
-- Alok
-- Suraj
-- Baljeet
+- Paritosh
+- Roshan
 
 ## Sonu
-- Ranjan
-- paritosh
-- subdeep
+- Vishal
+- Suraj
+
+## Shubham
+- Rajeshwer
+- Baljeet
